@@ -1,0 +1,160 @@
+header{
+	margin: 0px 100px;
+}
+
+body{
+	background-color: #fff;
+}
+
+#headerUP{
+	background-color: #504949;
+	color: white;
+	font-style: normal;
+	padding-bottom: 30px;
+	font-size: 20px;
+}
+
+#h1header{
+	padding-left: 30px;
+	padding-top: 10px; 
+}
+
+.ActiveLi{
+	color: white;
+	margin-left: 10px;
+	background-color: #ABA5A5;
+	border-radius: 5px 5px;
+}
+ul.hr {
+    margin: 0; 
+    padding: 12px;
+    color: grey;
+    display: inline; 
+   }
+   ul.hr li {
+    display: inline; 
+    margin-right: 5px; 
+    border-radius: 5px 5px;
+    padding: 5px; 
+}
+
+.headerDOWN{
+	     background-color: #3E3838;
+	     padding: 10px;
+}
+
+.formheader{
+	margin-left: 47%;
+	display: inline;
+	
+}
+
+a{
+	text-decoration: none;
+}
+
+.linkiheader{
+	border-radius: 2px 2px;
+	padding: 5px;
+}
+
+.linkiheader, .arrowbutton:link {
+    color: #6F5E5E;
+}
+
+/* visited link */
+.linkiheader, .arrowbutton:visited {
+    color: #6F5E5E;
+}
+
+/* mouse over link */
+.linkiheader:hover {
+    background-color: #D1CBCB;
+}
+
+/* selected link */
+.linkiheader:active {
+    color: yellow;
+}
+
+
+.left{
+	 float: left;
+     width: 60%;
+     margin-right: 40px;
+}
+
+#MainContent{
+	margin-top: 20px;
+	margin-left: 15%;
+
+	border: 5px ridge;
+	border-radius: 5px 5px;
+	background-color: #D4CECE;
+
+}
+
+#pInMainContent, #h1InMainContent{
+	margin: 20px;
+	font-style: normal;
+}
+
+#pInMainContent{
+	font-size: 17px;
+}
+
+#buttonInMainContent{
+	margin-bottom: 15px;
+	margin-left: 15px;
+	padding: 10px;
+}
+
+.arrowbutton:before{
+	content: "\279C";
+}
+
+.DivContentAll{
+	 float: left;
+     width: 45%;
+     margin-right: 30px;
+}
+
+.DivContentAllll{
+	float:left;
+    margin-left: 15%;
+    padding: 0 30px 0 30px;
+}
+
+.content_right{
+     float: right;
+        width:35%; 
+}
+
+.photo{
+    width: 80%;
+    margin-right: 20px;
+}
+
+.imageright{
+	margin: 5px;
+	border: 2px groove grey;
+}
+
+.pfooter{
+	float: left;
+	background-color: #DFDFDF;
+	margin-left: 18%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	width: 135%;
+	
+}	
+footer{
+	opacity: 0.7;
+}
+
+.item{
+	margin-left: -20px;
+}
+
+
